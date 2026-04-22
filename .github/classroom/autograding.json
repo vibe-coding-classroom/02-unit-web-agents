@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Workflow and CSS Checks",
+      "setup": "chmod +x tests/autograde.sh",
+      "run": "bash tests/autograde.sh",
+      "input": "",
+      "output": "All mandatory checks passed!",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 100
+    }
+  ]
+}
