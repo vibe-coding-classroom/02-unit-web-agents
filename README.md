@@ -1,6 +1,4 @@
-Viewed 04-unit-web-agents.html:1-343
-
-針對 **`04-unit-web-agents` (原生 Web 代理環境)** 單元，這個單元將開發戰場從本地 IDE 移向了雲端，強調 **「以任務為中心 (Task-Centric)」** 的開發流程。
+針對 **`02-unit-web-agents` (原生 Web 代理環境)** 單元，這個單元將開發戰場從本地 IDE 移向了雲端，強調 **「以任務為中心 (Task-Centric)」** 的開發流程。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
 
